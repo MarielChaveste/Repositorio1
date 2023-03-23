@@ -12,3 +12,4 @@ x <-1
 write.csv(iris, "iris.csv")
 
 
+#git branch -d nombre_de_rama (en terminal)
